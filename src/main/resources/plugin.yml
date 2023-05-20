@@ -1,0 +1,10 @@
+name: hanahuda
+version: '${project.version}'
+main: com.github.kumo0621.hanahuda.Hanahuda
+api-version: 1.16
+commands:
+  karuta:
+    permission: op
+permissions:
+  op:
+    default: op
